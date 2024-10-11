@@ -1,5 +1,5 @@
 
-## Привет! Hello! ¡Hola! 你好！こんにちは！
+# <p align="center">Привет! Hello! ¡Hola! 你好！こんにちは！</p>
 ### Меня зовут Женя Хитрова
 #### Я - Фронтенд разработчица с берегов Тихого океана России
 
@@ -12,12 +12,15 @@
 
 ### МОИ НАВЫКИ
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,htmx,css,sass,jquery,react,redux,nextjs,git,github,npm,yarn,postman,webpack,jest,cypress,figma,vscode&perline=10)](https://skillicons.dev)
+
 ### МОИ КОНТАКТЫ
 
 - ehitrova87@gmail.com
 - [Телеграм](https://t.me/jarotea)
 
-## BONUS 
+### BONUS 
 - Говорю на 5 языках, занимаюсь йогой с 15 лет, воспитываю кота из приюта, люблю компьютерные игры с открытыми мирами и реальные интеллектуальные игры и квизы, обожаю однодневные походы на природу.
 
+# <p align="center"> :blush:	 :blush:	 :blush:</p>
 
