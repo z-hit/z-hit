@@ -14,7 +14,7 @@
   
 - Хочу найти работу в организации, где есть практика код-ревью и возможность работать над разными проектами, так как мне нравится все время учиться новому и постоянно расти.
   
-- Активно ищу работу: [Мое резюме доступно тут](https://vladivostok.hh.ru/applicant/resumes/view?resume=b12aefe0ff0914f5450039ed1f49394d37546f)
+- Активно ищу работу: [Мое резюме на HH.ru](https://vladivostok.hh.ru/applicant/resumes/view?resume=b12aefe0ff0914f5450039ed1f49394d37546f) и [Мой профиль LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
 
 ### МОИ НАВЫКИ
 
@@ -23,7 +23,8 @@
 ### МОИ КОНТАКТЫ
 
 - ehitrova87@gmail.com
-- [Телеграм](https://t.me/jarotea)
+- [Telegram](https://t.me/jarotea)
+- [LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
 
 ### BONUS 
 - Говорю на 5 языках, занимаюсь йогой с 15 лет, воспитываю кота из приюта, люблю компьютерные игры с открытыми мирами и реальные интеллектуальные игры и квизы, обожаю однодневные походы на природу.
