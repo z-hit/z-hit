@@ -1,33 +1,29 @@
 
-# <p align="center">:blush: Привет! Hello! ¡Hola! 你好！こんにちは :blush:</p>
-### Меня зовут Женя Хитрова
-#### Я - Фронтенд разработчица с берегов Тихого океана России
+# <p align="center">:blush: Hello! Привет! ¡Hola! 你好！こんにちは :blush:</p>
+### My name is Zhenya Hitrova
+#### I am a Frontend Developer from the Pacific coast of Russia
 
-### ОБО МНЕ
-- Влюбилась в разработку, посколько обожаю решать загадки, оптимизировать все вокруг, постоянно учиться чему-то новому, и главное - создавать продукты, которые могут быть полезны многим людям.
+### ABOUT ME
+- I got interested in the development because of my passion to solving problems, striving to constant studying and growth, and my desire to bring value to a big amount of people woth my work.
 
-- Свободное владение английским позволило мне начать обучение самостоятельно - читала документацию, обучалась на англоязычных курсах FreeCodeCamp и Coursera, смотрела YouTube видео. Далее я успешно прошла 10 месячный курс "Фронтенд разработчик" от Яндекс.Практикума, где рекомендации наставников и регулярные код-ревью на многочисленных учебных проектах помогли значительно повысить мои новыки.
+- I studyied at FreeCodeCamp and Coursera, finished a comprehensive course from Yandex.Practicum where multiple aducational projects and code reviews from experienced mentors helpded me to master HTML and CSS, JavaScript and TypeScript, React and Redux, API, Testing, Git and Github, Figma, and much more.
   
-- В данный момент участвую в создании портала для взаимодействия благотворительных организаций и волонтеров от Мастерской Яндекс.Практикума - Procharity. Являюсь частью команды разработки сервиса Админки (Admin panel). Проект Procharity находится в разработке, но скоро выходит в продакшн.
+- Currently I am working on tranferring website [www.hitrova.art](https://hitrova.art/) from RCA to Next.js. [GitHub of the project](https://github.com/z-hit/art-portfolio)
   
-- Параллельно работаю над переносом своего ранее созданного сайта портфолио художника [www.hitrova.art](https://hitrova.art/) с уcтаревшего фреймворка RCA на более современный Next.js. [Ссылка на репозиторий проекта](https://github.com/z-hit/art-portfolio)
-  
-- Хочу найти работу в организации, где есть практика код-ревью и возможность работать над разными проектами, так как мне нравится все время учиться новому и постоянно расти.
-  
-- Активно ищу работу: [Мое резюме на HH.ru](https://vladivostok.hh.ru/applicant/resumes/view?resume=b12aefe0ff0914f5450039ed1f49394d37546f) и [Мой профиль LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
-
+- Actively looking for emplyment: [My LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
+and [My CV on HH.ru](https://vladivostok.hh.ru/applicant/resumes/view?resume=b12aefe0ff0914f5450039ed1f49394d37546f)
 ### МОИ НАВЫКИ
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,git,github,npm,yarn,postman,webpack,jest,cypress,figma,vscode&perline=9)](https://skillicons.dev)
 
-### МОИ КОНТАКТЫ
+### MY CONTACTS
 
 - ehitrova87@gmail.com
 - [Telegram](https://t.me/jarotea)
 - [LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
 
 ### BONUS 
-- Говорю на 5 языках, занимаюсь йогой с 15 лет, воспитываю кота из приюта, люблю компьютерные игры с открытыми мирами и реальные интеллектуальные игры и квизы, обожаю однодневные походы на природу.
+- I speak 5 languages, have been practicing yoga since I was 15, love open world computer games, and hiking in the nature.
 
-# <p align="center">:blush: Добро пожаловать! :blush:</p>
+# <p align="center">:blush: Welcome! :blush:</p>
 
