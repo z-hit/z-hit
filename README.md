@@ -12,7 +12,7 @@
   
 - Actively looking for emplyment: [My LinkedIn](www.linkedin.com/in/evgeniya-hitrova-66076011b)
 and [My CV on HH.ru](https://vladivostok.hh.ru/applicant/resumes/view?resume=b12aefe0ff0914f5450039ed1f49394d37546f)
-### МОИ НАВЫКИ
+### MY SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,git,github,npm,yarn,postman,webpack,jest,cypress,figma,vscode&perline=9)](https://skillicons.dev)
 
