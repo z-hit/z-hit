@@ -4,9 +4,9 @@
 #### I am a Frontend Developer from the Pacific coast of Russia
 
 ### ABOUT ME
-- I got interested in the development because of my passion to solving problems, striving to constant studying and growth, and my desire to bring value to a big amount of people woth my work.
+- I got interested in Web development because of my passion to solving problems and my desire to bring value to a big amount of people woth my work. 
 
-- I studyied at FreeCodeCamp and Coursera, finished a comprehensive course from Yandex.Practicum where multiple aducational projects and code reviews from experienced mentors helpded me to master HTML and CSS, JavaScript and TypeScript, React and Redux, API, Testing, Git and Github, Figma, and much more.
+- I first started self-studying at FreeCodeCamp and Coursera, and later on I finished a comprehensive course "Frontend Developer" from Yandex.Practicum where multiple educational projects and code reviews from experienced mentors helpded me to master HTML and CSS, JavaScript and TypeScript, React and Redux, API, Testing, Git and Github, Figma, and much more.
   
 - Currently I am working on tranferring website [www.hitrova.art](https://hitrova.art/) from RCA to Next.js. [GitHub of the project](https://github.com/z-hit/art-portfolio)
   
